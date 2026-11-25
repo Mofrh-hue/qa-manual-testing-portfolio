@@ -36,7 +36,7 @@
 
 **Expected:** The full product list (9 products) is shown again.  
 **Actual:** The product grid is completely blank — 0 products and no message. Only a full page reload restores the list.  
-**Notes:** Reproduced 3/3 times. Users who clear a search are left on an empty shop.
+**Notes:** Reproduced 3/3 times in the first session; could not be reproduced on a later re-test, so it looks intermittent. Users who clear a search can be left on an empty shop.
 
 ## BUG-02 — Quantity "+" and "−" buttons do not change the quantity
 **Severity:** High · **Area:** Product page (Combination Pliers)  
